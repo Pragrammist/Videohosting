@@ -1,0 +1,5 @@
+C:\Users\F\source\repos\Videoservice\DomainLogic\obj\Debug\net5.0\DomainLogic.csproj.AssemblyReference.cache
+C:\Users\F\source\repos\Videoservice\DomainLogic\obj\Debug\net5.0\DomainLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F\source\repos\Videoservice\DomainLogic\obj\Debug\net5.0\DomainLogic.AssemblyInfoInputs.cache
+C:\Users\F\source\repos\Videoservice\DomainLogic\obj\Debug\net5.0\DomainLogic.AssemblyInfo.cs
+C:\Users\F\source\repos\Videoservice\DomainLogic\obj\Debug\net5.0\DomainLogic.csproj.CoreCompileInputs.cache

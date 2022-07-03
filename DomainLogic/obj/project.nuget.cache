@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sub/0WTl1ma5PQsZn+ymvMIwdXjzEvfmEznKgpQqgw9DUcj+C8PH91ExcbRCAbSHoQFlCWmxrrB/dvDPUmKStA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\F\\source\\repos\\Videoservice\\DomainLogic\\DomainLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\F\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\F\\.nuget\\packages\\mediatypemap\\2.1.0\\mediatypemap.2.1.0.nupkg.sha512",
+    "C:\\Users\\F\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MediaTypeMap 2.1.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MediaTypeMap",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
