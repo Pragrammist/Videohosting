@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationServices\ApplicationServices.csproj" />
+    <ProjectReference Include="..\DomainLogic.Shared\DomainLogic.Shared.csproj" />
+    <ProjectReference Include="..\DomainLogic\DomainLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UOWs\" />
+    <Folder Include="Implemention\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+</Project>
