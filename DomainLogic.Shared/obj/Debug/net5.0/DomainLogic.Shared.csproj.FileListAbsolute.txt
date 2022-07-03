@@ -1,0 +1,12 @@
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\bin\Debug\net5.0\DomainLogic.Shared.deps.json
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\bin\Debug\net5.0\DomainLogic.Shared.dll
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\bin\Debug\net5.0\ref\DomainLogic.Shared.dll
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\bin\Debug\net5.0\DomainLogic.Shared.pdb
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.csproj.AssemblyReference.cache
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.AssemblyInfoInputs.cache
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.AssemblyInfo.cs
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.dll
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\ref\DomainLogic.Shared.dll
+C:\Users\F\source\repos\Videoservice\DomainLogic.Shared\obj\Debug\net5.0\DomainLogic.Shared.pdb
